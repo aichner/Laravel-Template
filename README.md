@@ -49,6 +49,8 @@
 
 The demo site will now be accessible at your local webservice.
 
+(The project folder `public` should be the document root of the webserver)
+
 [More documentation](https://laravel.com/docs/6.x)
 
 ## [](#bug-and-feature-requests)Bugs and feature requests
